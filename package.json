@@ -1,0 +1,17 @@
+{
+  "name": "gulp-watch-daemon",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sterpe <srterpe@gmail.com> (https://github.com/sterpe)",
+  "license": " ",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.8"
+  }
+}
